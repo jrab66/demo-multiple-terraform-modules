@@ -51,3 +51,8 @@ variable "access_logging_bucket" {
   description = "Destination for access logging"
   default     = ""
 }
+# test variable
+variable "access_logging_bucket" {
+  description = "Destination for access logging"
+  default     = ""
+}
